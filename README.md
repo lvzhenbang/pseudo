@@ -104,6 +104,10 @@ what can a pseudo-class do?
 
 </details>
 
+### demo
+
+[常见 demo]（https://github.com/lvzhenbang/pseudo/blob/master/demo.md)
+
 未完待续...
 
 ### 目录列表
