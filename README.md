@@ -598,3 +598,17 @@ what can a pseudo-class do?
 
 浏览器支持：其他浏览器均不支持。(`can i use` 上根本查不到)
 
+#### marker
+
+即 `::marker`
+
+描述：这个伪元素可以设置元素（如li, dt, dd）生成的框类型为list-item或者设置display属性为 `display: list-item;` 的任意元素的开始标记。 也就是说可以通过 `::marker` 自定义 `li` 的标记样式和内容。在content属性中设置需要显示的内容，`counter-reset, counter-increament` 这两个属性用来设置标记的计数器相关内容。
+
+浏览器支持：仅safari 11.1+, ios 11.4+支持
+
+补充：虽然改伪元素的浏览器支持很差，但是可以通过使用 `::before/::after` 达到相似的效果。因为 `[counters](https://caniuse.com/#search=counter-rese)` 这个属性的浏览器支持很好所以可以放心使用。
+
+示例：
+
+[demo](https://codepen.io/lvzhenbang/pen/ReNeoa)
+

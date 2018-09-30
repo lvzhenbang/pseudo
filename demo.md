@@ -12,4 +12,6 @@
 
 [可视化工具](https://codepen.io/rachel_web/pen/RPOxxR)
 
-> 
+> 开关状态（非默认的input(type为radio、checkbox)样式）
+
+> 下拉菜单的知识按钮
