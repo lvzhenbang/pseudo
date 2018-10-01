@@ -12,6 +12,17 @@
 
 [可视化工具](https://codepen.io/rachel_web/pen/RPOxxR)
 
+> `::marker` 定制列表项标记块的效果
+
+除了使用元素li，dt, dd这样的列表项，还可以通过 `display: list-item; counter-reset:*; counter-increament:*;`自定义列表项的标记。由于`::marker`的浏览器支持不好，可以使用 `::before` 来代替。
+
+[demo](https://codepen.io/lvzhenbang/pen/ReNeoa)
+
 > 开关状态（非默认的input(type为radio、checkbox)样式）
 
-> 下拉菜单的知识按钮
+[demo](https://codepen.io/lvzhenbang/pen/vVEeoZ)
+
+> 下拉菜单的指示按钮
+
+[demo](https://codepen.io/lvzhenbang/pen/QZbEoe)
+

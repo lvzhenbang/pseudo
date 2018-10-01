@@ -18,7 +18,7 @@ what can a pseudo-class do?
 
 常见伪元素如下：
 
-::before, ::after, ::placeholder
+::before, ::after, ::placeholder, ::marker
 
 ## 常用
 
