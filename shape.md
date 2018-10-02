@@ -1,10 +1,10 @@
 ## 用css做图形
 
-在前端开发中，你或多或少都会接触到使用css做图形。之前我也整理过 `[伪元素&伪类](https://github.com/lvzhenbang/pseudo)` 的内容，为的就是更加熟悉了解他们，同时也整理了一些我用伪元素做的 `[demo](https://github.com/lvzhenbang/pseudo/blob/master/demo.md)`，这些demo包括一些 `[动画](https://github.com/lvzhenbang/css3-animate)` 和一些样例。
+在前端开发中，你或多或少都会接触到css图形。之前我整理过 `[伪元素&伪类](https://github.com/lvzhenbang/pseudo)` 的内容，为的就是更加熟悉了解它们，以便更好的使用它们。同时也也使用它一做了一些动画。 `[css3-animate](https://github.com/lvzhenbang/css3-animate)`。
 
 这里说的用css做图形，其实是使用一个html元素，结合它的伪元素 `::before & ::after` （不需要其他额外的非伪元素的html元素），然后定义样式来生成所需的图形。
 
-这样的好处，在html方便引入，而不需要每次引入都需要添加大量的html片段（夸张说法）。
+这里不是说不可以使用其它的html元素，只是这样的好处是在html方便引入，而不需要每次引入都需要添加大量的html片段（夸张说法）。
 
 ### 目录
 
