@@ -2282,8 +2282,3 @@ margin: 50px 0;
 ```
 
 [▲ 返回目录](#目录)
-
-### 参考资料
-
-* [The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
-* [Working with Shapes in Web Design](https://css-tricks.com/working-with-shapes-in-web-design/)
