@@ -18,11 +18,11 @@
 
 [demo](https://codepen.io/lvzhenbang/pen/ReNeoa)
 
-> 开关状态（非默认的input(type为radio、checkbox)样式）
+> 开关状态（非默认的input(type为radio、checkbox)样式）(::before, ::after)
 
 [demo](https://codepen.io/lvzhenbang/pen/vVEeoZ)
 
-> 下拉菜单的指示按钮
+> 下拉菜单的指示按钮(::after)
 
 [demo](https://codepen.io/lvzhenbang/pen/QZbEoe)
 

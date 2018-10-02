@@ -20,7 +20,23 @@ what can a pseudo-class do?
 
 ::before, ::after, ::placeholder, ::marker
 
-## 常用
+### 使用伪类和伪元素都能做些什么
+
+1. 伪元素
+
+* 作为一个占位符（清除浮动）
+* 利用  `position + z-index` 这样做一些图层覆盖，然后结合时间做动画
+
+注：主要用途使用伪元素做动画比较常见。
+
+2. 伪类
+
+* 指代某一些元素
+* 指代某个位置的元素
+
+注：主要用途指代某些元素，并设置样式。
+
+## 常用伪类和伪元素
 
 ### 元素状态
 
@@ -65,6 +81,8 @@ what can a pseudo-class do?
 
 ### child系列
 
+注：定位指定位置元素的样式
+
 <details>
 <summary> 目录 </summary>
 
@@ -77,6 +95,8 @@ what can a pseudo-class do?
 </details>
 
 ### type系列
+
+注：定位指定位置元素的样式
 
 <details>
 <summary> 目录 </summary>
@@ -611,4 +631,3 @@ what can a pseudo-class do?
 示例：
 
 [demo](https://codepen.io/lvzhenbang/pen/ReNeoa)
-
