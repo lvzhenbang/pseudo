@@ -18,9 +18,25 @@ what can a pseudo-class do?
 
 常见伪元素如下：
 
-::before, ::after, ::placeholder
+::before, ::after, ::placeholder, ::marker
 
-## 常用
+### 使用伪类和伪元素都能做些什么
+
+1. 伪元素
+
+* 作为一个占位符（清除浮动）
+* 利用  `position + z-index` 这样做一些图层覆盖，然后结合时间做动画
+
+注：主要用途使用伪元素做动画比较常见。
+
+2. 伪类
+
+* 指代某一些元素
+* 指代某个位置的元素
+
+注：主要用途指代某些元素，并设置样式。
+
+## 常用伪类和伪元素
 
 ### 元素状态
 
@@ -65,6 +81,8 @@ what can a pseudo-class do?
 
 ### child系列
 
+注：定位指定位置元素的样式
+
 <details>
 <summary> 目录 </summary>
 
@@ -77,6 +95,8 @@ what can a pseudo-class do?
 </details>
 
 ### type系列
+
+注：定位指定位置元素的样式
 
 <details>
 <summary> 目录 </summary>
@@ -598,3 +618,16 @@ what can a pseudo-class do?
 
 浏览器支持：其他浏览器均不支持。(`can i use` 上根本查不到)
 
+#### marker
+
+即 `::marker`
+
+描述：这个伪元素可以设置元素（如li, dt, dd）生成的框类型为list-item或者设置display属性为 `display: list-item;` 的任意元素的开始标记。 也就是说可以通过 `::marker` 自定义 `li` 的标记样式和内容。在content属性中设置需要显示的内容，`counter-reset, counter-increament` 这两个属性用来设置标记的计数器相关内容。
+
+浏览器支持：仅safari 11.1+, ios 11.4+支持
+
+补充：虽然改伪元素的浏览器支持很差，但是可以通过使用 `::before/::after` 达到相似的效果。因为 `[counters](https://caniuse.com/#search=counter-rese)` 这个属性的浏览器支持很好所以可以放心使用。
+
+示例：
+
+[demo](https://codepen.io/lvzhenbang/pen/ReNeoa)
