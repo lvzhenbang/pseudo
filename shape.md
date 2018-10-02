@@ -99,7 +99,7 @@
 }
 ```
 
-[demo]()
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#square)
 
 [▲ 返回目录](#目录)
 
@@ -112,6 +112,7 @@
     background: red;
 }
 ```
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#rectangle)
 
 [▲ 返回目录](#目录)
 
@@ -126,6 +127,8 @@
 }
 ```
 
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#circle)
+
 [▲ 返回目录](#目录)
 
 #### shape-oval
@@ -138,6 +141,7 @@
     border-radius: 100px / 50px;
 }
 ```
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#oval)
 
 [▲ 返回目录](#目录)
 
@@ -153,6 +157,7 @@
     border-radius: 50%;
 }
 ```
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#cone)
 
 [▲ 返回目录](#目录)
 
@@ -167,6 +172,7 @@
     width: 100px;
 }
 ```
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#trapezoid)
 
 [▲ 返回目录](#目录)
 
@@ -180,6 +186,8 @@
     background: red;
 }
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#parallelogram)
 
 [▲ 返回目录](#目录)
 
@@ -207,6 +215,7 @@
     border-color: transparent transparent red;
 }
 ```
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#shape-pentagon)
 
 [▲ 返回目录](#目录)
 
@@ -242,6 +251,7 @@
     border-top: 25px solid red;
 }
 ```
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#hexagon)
 
 [▲ 返回目录](#目录)
 
@@ -278,6 +288,8 @@
 }  
 ```
 
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#octagon)
+
 [▲ 返回目录](#目录)
 
 #### shape-triangle-up
@@ -291,6 +303,7 @@
     border-bottom: 100px solid red;
 }
 ```
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#triangle-up)
 
 [▲ 返回目录](#目录)
 
@@ -306,6 +319,8 @@
 }
 ```
 
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#triangle-down)
+
 [▲ 返回目录](#目录)
 
 #### shape-triangle-left
@@ -319,6 +334,8 @@
     border-top: 100px solid red;
 }
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#triangle-left)
 
 [▲ 返回目录](#目录)
 
@@ -334,6 +351,8 @@
 }
 ```
 
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#triangle-right)
+
 [▲ 返回目录](#目录)
 
 #### shape-triangle-top-left
@@ -346,6 +365,8 @@
     border-right: 100px solid transparent;
 }
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#triangle-topleft)
 
 [▲ 返回目录](#目录)
 
@@ -360,6 +381,8 @@
 }
 ```
 
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#triangle-topright)
+
 [▲ 返回目录](#目录)
 
 #### shape-triangle-bottom-left
@@ -373,6 +396,8 @@
 }
 ```
 
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#triangle-bottomleft)
+
 [▲ 返回目录](#目录)
 
 #### shape-triangle-bottom-right
@@ -385,6 +410,8 @@
     border-left: 100px solid transparent;
 }
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#triangle-bottomright)
 
 [▲ 返回目录](#目录)
 
@@ -413,6 +440,8 @@
     transform: rotate(45deg);
 }
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#tcurvedarrow)
 
 [▲ 返回目录](#目录)
 
@@ -459,6 +488,8 @@ margin: 50px 0;
 }  
 ```
 
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#star-five)
+
 [▲ 返回目录](#目录)
 
 #### shape-star-6
@@ -485,6 +516,8 @@ margin: 50px 0;
     left: -50px;
 }  
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#star-six)
 
 [▲ 返回目录](#目录)
 
@@ -516,6 +549,8 @@ margin: 50px 0;
 }  
 ```
 
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#burst-12)
+
 [▲ 返回目录](#目录)
 
 #### shape-burst-8
@@ -540,6 +575,8 @@ margin: 50px 0;
     transform: rotate(135deg);
 }  
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#burst-8)
 
 [▲ 返回目录](#目录)
 
@@ -571,6 +608,8 @@ margin: 50px 0;
 }
 
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#heart)
 
 [▲ 返回目录](#目录)
 
@@ -604,6 +643,8 @@ margin: 50px 0;
 }
 ```
 
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#infinity)
+
 [▲ 返回目录](#目录)
 
 #### shape-diamond-square
@@ -628,6 +669,8 @@ margin: 50px 0;
     border-top-color: red;
 }
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#diamond-square)
 
 [▲ 返回目录](#目录)
 
@@ -654,6 +697,8 @@ margin: 50px 0;
 }
 ```
 
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#diamond-narrow)
+
 [▲ 返回目录](#目录)
 
 #### shape-diamond-shield
@@ -679,6 +724,8 @@ margin: 50px 0;
     border-top: 70px solid red;
 }
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#diamond-shield)
 
 [▲ 返回目录](#目录)
 
@@ -708,6 +755,8 @@ margin: 50px 0;
 }
 ```
 
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#cut-diamond)
+
 [▲ 返回目录](#目录)
 
 #### shape-egg
@@ -721,6 +770,8 @@ margin: 50px 0;
     border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
 }
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#egg)
 
 [▲ 返回目录](#目录)
 
@@ -741,9 +792,11 @@ margin: 50px 0;
 }
 ```
 
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#shape-pacman)
+
 [▲ 返回目录](#目录)
 
-#### shape-tablk-bubble
+#### shape-talk-bubble
 
 ```
 #talkbubble {
@@ -767,6 +820,8 @@ margin: 50px 0;
     border-bottom: 13px solid transparent;
 }
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#ttalk-bubble)
 
 [▲ 返回目录](#目录)
 
@@ -810,6 +865,9 @@ margin: 50px 0;
 }
 ```
 
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#yin-yang)
+
 [▲ 返回目录](#目录)
 
 #### shape-badge-ribbon
@@ -840,49 +898,61 @@ margin: 50px 0;
 }
 ```
 
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#badge-ribbon)
+
 [▲ 返回目录](#目录)
 
 #### shape-space-invader
 
 ```
 #space-invader {
-    box-shadow: 0 0 0 1em red,
-    0 1em 0 1em red,
-    -2.5em 1.5em 0 .5em red,
-    2.5em 1.5em 0 .5em red,
-    -3em -3em 0 0 red,
-    3em -3em 0 0 red,
-    -2em -2em 0 0 red,
-    2em -2em 0 0 red,
-    -3em -1em 0 0 red,
-    -2em -1em 0 0 red,
-    2em -1em 0 0 red,
-    3em -1em 0 0 red,
-    -4em 0 0 0 red,
-    -3em 0 0 0 red,
-    3em 0 0 0 red,
-    4em 0 0 0 red,
-    -5em 1em 0 0 red,
-    -4em 1em 0 0 red,
-    4em 1em 0 0 red,
-    5em 1em 0 0 red,
-    -5em 2em 0 0 red,
-    5em 2em 0 0 red,
-    -5em 3em 0 0 red,
-    -3em 3em 0 0 red,
-    3em 3em 0 0 red,
-    5em 3em 0 0 red,
-    -2em 4em 0 0 red,
-    -1em 4em 0 0 red,
-    1em 4em 0 0 red,
-    2em 4em 0 0 red;
-    background: red;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 12em;
+    height: 8em;
+}
+
+#space-invader::before {
+    content: '';
+    display: inline-block;
     width: 1em;
     height: 1em;
-    overflow: hidden;
-    margin: 50px 0 70px 65px;
+    box-shadow: 0 0 0 1em red,
+        0 1em 0 1em red,
+        -2.5em 1.5em 0 .5em red,
+        2.5em 1.5em 0 .5em red,
+        -3em -3em 0 0 red,
+        3em -3em 0 0 red,
+        -2em -2em 0 0 red,
+        2em -2em 0 0 red,
+        -3em -1em 0 0 red,
+        -2em -1em 0 0 red,
+        2em -1em 0 0 red,
+        3em -1em 0 0 red,
+        -4em 0 0 0 red,
+        -3em 0 0 0 red,
+        3em 0 0 0 red,
+        4em 0 0 0 red,
+        -5em 1em 0 0 red,
+        -4em 1em 0 0 red,
+        4em 1em 0 0 red,
+        5em 1em 0 0 red,
+        -5em 2em 0 0 red,
+        5em 2em 0 0 red,
+        -5em 3em 0 0 red,
+        -3em 3em 0 0 red,
+        3em 3em 0 0 red,
+        5em 3em 0 0 red,
+        -2em 4em 0 0 red,
+        -1em 4em 0 0 red,
+        1em 4em 0 0 red,
+        2em 4em 0 0 red;
+    background: red;
 }
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#space-invader)
 
 [▲ 返回目录](#目录)
 
@@ -912,10 +982,11 @@ margin: 50px 0;
 }
 ```
 
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#tv)
+
 [▲ 返回目录](#目录)
 
 #### shape-mangnifying-glass
-
 
 ```
 #magnifying-glass {
@@ -941,6 +1012,8 @@ margin: 50px 0;
     transform: rotate(45deg);
 }
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#magnifying-glass)
 
 
 [▲ 返回目录](#目录)
@@ -984,18 +1057,28 @@ margin: 50px 0;
 }
 ```
 
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#facebook-icon)
+
 [▲ 返回目录](#目录)
 
 #### shape-moon
 
 ```
 #moon {
-    width: 80px;
-    height: 80px;
+    width: 10em;
+    height: 10em;
+}
+#moon::before {
+    content: '';
+    display: inline-block;
+    width: 8em;
+    height: 8em;
     border-radius: 50%;
-    box-shadow: 15px 15px 0 0 red;
+    box-shadow: 1em 1em 0 0 red;
 }
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#moon)
 
 [▲ 返回目录](#目录)
 
@@ -1027,6 +1110,8 @@ margin: 50px 0;
     border-right: 55px solid transparent;
 }
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#flag)
 
 [▲ 返回目录](#目录)
 
@@ -1061,6 +1146,8 @@ margin: 50px 0;
 }
 ```
 
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#cross)
+
 [▲ 返回目录](#目录)
 
 #### shape-base
@@ -1087,6 +1174,8 @@ margin: 50px 0;
     width: 0;
 }
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#base)
 
 [▲ 返回目录](#目录)
 
@@ -1122,6 +1211,8 @@ margin: 50px 0;
     border-bottom: 20px solid transparent;
 }
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#pointer)
 
 [▲ 返回目录](#目录)
 
@@ -1167,5 +1258,7 @@ margin: 50px 0;
     margin-left: -2.5em;
 }
 ```
+
+[demo](https://lvzhenbang.github.io/pseudo/demo-shape.html?#lock)
 
 [▲ 返回目录](#目录)
