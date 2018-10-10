@@ -6,6 +6,25 @@
 
 这里不是说不可以使用其它的html元素，只是这样的好处是在html方便引入，而不需要每次引入都需要添加大量的html片段（夸张说法）。
 
+### 主要方法
+
+可以使用的样式属性如下：
+
+```
+* border
+* border-radius
+* transform
+* box-shadow
+```
+
+为了兼容性，使用pseudo-elements(::before, ::after) 和上面样式属性中的一种或几种随机组合。
+
+当然，在前端我们经常使用的时svg和font-icon。
+
+还用一种是css3的shape-outside实现文本环绕的效果。
+
+下面主要介绍第一种。
+
 ### 目录
 
 <details>
