@@ -1,6 +1,6 @@
 # pseudo
 
-what can a pseudo-class do?
+what can a pseudo-class/pseudo-element do?
 
 ## 伪类（pseudo-class）& 伪元素（pseudo-element）
 
@@ -26,6 +26,7 @@ what can a pseudo-class do?
 
 * 作为一个占位符（清除浮动）
 * 利用  `position + z-index` 这样做一些图层覆盖，然后结合时间做动画
+* 定义列表元素（如：li, 或者设置盒样式为 'display:list-item;' 的元素）的标签样式
 
 注：主要用途使用伪元素做动画比较常见。
 
