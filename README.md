@@ -18,7 +18,7 @@ what can a pseudo-class/pseudo-element do?
 
 常见伪元素如下：
 
-::before, ::after, ::placeholder, ::marker
+::before, ::after, ::placeholder, ::marker, ::backdrop
 
 ### 使用伪类和伪元素都能做些什么
 
@@ -26,7 +26,8 @@ what can a pseudo-class/pseudo-element do?
 
 * 作为一个占位符（清除浮动）
 * 利用  `position + z-index` 这样做一些图层覆盖，然后结合时间做动画
-* 定义列表元素（如：li, 或者设置盒样式为 'display:list-item;' 的元素）的标签样式
+* `::maker` 定义列表元素（如：li, 或者设置盒样式为 'display:list-item;' 的元素）的标签样式
+* `::backdrop` 这个伪元素可以用来做对话框的mask，但是有一个前提是它必须是在使用HTML5元素dialog的情况下，其他元素没这个效果。具体的使用和兼容性可参考[dialog](https://github.com/lvzhenbang/article/blob/master/dialog.md)
 
 注：主要用途使用伪元素做动画比较常见。
 
