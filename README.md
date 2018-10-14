@@ -183,6 +183,10 @@ what can a pseudo-class/pseudo-element do?
 
 是否常用：是
 
+案例展示：
+
+[demo](https://codepen.io/lvzhenbang/pen/yRowVE)
+
 </br> [▲ 返回目录](#元素状态)
 
 #### focus-within
@@ -236,6 +240,10 @@ what can a pseudo-class/pseudo-element do?
 浏览器支持：chrome, safari 3.2+, firefox 3.5+, opera, ie 9+, ios, android
 
 是否常用：是
+
+案例展示：
+
+[demo](https://codepen.io/lvzhenbang/pen/yRowVE)
 
 </br> [▲ 返回目录](#其他)
 
@@ -544,6 +552,10 @@ what can a pseudo-class/pseudo-element do?
 
 浏览器支持：chrome 4+, firefox 19+, safari 5+, opera 15+, ie(no), edg(需要前缀), android, ios 4.3+
 
+案例展示：
+
+[demo](https://codepen.io/lvzhenbang/pen/yRowVE)
+
 </br> [▲ 返回目录](#表单样式)
 
 #### placeholder-shown
@@ -553,6 +565,10 @@ what can a pseudo-class/pseudo-element do?
 描述：匹配表单元素，设置元素展示 `placeholder` 属性值时的 input 元素样式。
 
 浏览器支持：chrome 4+, safari 5+, firefox 19+, opera 15+, ie(no), edg(no), ios 4.3+, android 6+
+
+案例展示：
+
+[demo](https://codepen.io/lvzhenbang/pen/yRowVE)
 
 </br> [▲ 返回目录](#表单样式)
 
