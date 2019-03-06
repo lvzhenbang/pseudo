@@ -500,6 +500,8 @@ what can a pseudo-class/pseudo-element do?
 
 浏览器支持：chrome, safari, firefox, opera 9.5+, ie 9+, android, ios
 
+demo: 定义css[变量](https://css-tricks.com/css-variables-calc-rgb-enforcing-high-contrast-colors/)
+
 </br> [▲ 返回目录](#文章排版)
 
 #### dir
