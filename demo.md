@@ -33,3 +33,11 @@
 > 浮动的label (:focus/:not/::placeholder/:placeholder-shown)
 
 [demo](https://codepen.io/lvzhenbang/pen/yRowVE)
+
+> 多行文本的省略，使用伪元素 (::after) ，末尾的淡出效果
+
+[demo](https://codepen.io/chriscoyier/pen/iBtep)
+
+> 多行文本的省略，使用伪元素 (::after) ，末尾的淡出效果
+
+[demo](https://codepen.io/lvzhenbang/pen/ROmzzj)
