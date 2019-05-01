@@ -40,4 +40,5 @@
 
 > 多行文本的省略，使用伪元素 (::after) ，末尾的淡出效果
 
-[demo](https://codepen.io/lvzhenbang/pen/ROmzzj)
+* [demo](https://codepen.io/lvzhenbang/pen/ROmzzj)
+* [text-overflow](https://github.com/lvzhenbang/text-overflow#%E7%A4%BA%E4%BE%8B)
