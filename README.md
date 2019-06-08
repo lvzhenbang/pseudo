@@ -123,6 +123,7 @@ what can a pseudo-class/pseudo-element do?
 * [:not](#not)
 * [:empty](#empty)
 * [:matches](#matches)
+* [:host](#host)
 
 </details>
 
@@ -651,3 +652,15 @@ demo: 定义css[变量](https://css-tricks.com/css-variables-calc-rgb-enforcing-
 示例：
 
 [demo](https://codepen.io/lvzhenbang/pen/ReNeoa)
+
+#### host
+
+即 `:host`
+
+描述：这个伪类主要用来指定`template`元或者其子元素的样式。
+
+浏览器支持：仅chrome 54+, opera 41+支持
+
+示例：
+
+[demo](https://codepen.io/calebdwilliams/pen/eXJZza)
